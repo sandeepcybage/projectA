@@ -1,0 +1,6 @@
+projectKey=my-app22
+serverUrl=http://172.27.59.97:9000
+serverVersion=6.7.7.38951
+dashboardUrl=http://172.27.59.97:9000/dashboard/index/my-app22
+ceTaskId=AWtqa7Sp9oThBM8x98-Q
+ceTaskUrl=http://172.27.59.97:9000/api/ce/task?id=AWtqa7Sp9oThBM8x98-Q

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.20">
+<file name="D:\Git\Sonarproject - 1\master\uniqueid-zookeeper\src\main\java\org\lable\oss\uniqueid\zookeeper\ClusterID.java">
+</file>
+<file name="D:\Git\Sonarproject - 1\master\uniqueid-zookeeper\src\main\java\org\lable\oss\uniqueid\zookeeper\ExpiringResourceClaim.java">
+</file>
+<file name="D:\Git\Sonarproject - 1\master\uniqueid-zookeeper\src\main\java\org\lable\oss\uniqueid\zookeeper\ResourceClaim.java">
+</file>
+<file name="D:\Git\Sonarproject - 1\master\uniqueid-zookeeper\src\main\java\org\lable\oss\uniqueid\zookeeper\ResourceClaimHolder.java">
+</file>
+<file name="D:\Git\Sonarproject - 1\master\uniqueid-zookeeper\src\main\java\org\lable\oss\uniqueid\zookeeper\SynchronizedGeneratorIdentity.java">
+</file>
+<file name="D:\Git\Sonarproject - 1\master\uniqueid-zookeeper\src\main\java\org\lable\oss\uniqueid\zookeeper\SynchronizedUniqueIDGeneratorFactory.java">
+</file>
+<file name="D:\Git\Sonarproject - 1\master\uniqueid-zookeeper\src\main\java\org\lable\oss\uniqueid\zookeeper\ZooKeeperHelper.java">
+</file>
+<file name="D:\Git\Sonarproject - 1\master\uniqueid-zookeeper\src\test\java\org\lable\oss\uniqueid\zookeeper\AcquisitionTimeoutIT.java">
+</file>
+<file name="D:\Git\Sonarproject - 1\master\uniqueid-zookeeper\src\test\java\org\lable\oss\uniqueid\zookeeper\ClusterIDIT.java">
+</file>
+<file name="D:\Git\Sonarproject - 1\master\uniqueid-zookeeper\src\test\java\org\lable\oss\uniqueid\zookeeper\ExpiringResourceClaimIT.java">
+</file>
+<file name="D:\Git\Sonarproject - 1\master\uniqueid-zookeeper\src\test\java\org\lable\oss\uniqueid\zookeeper\MultipleGeneratorsIT.java">
+</file>
+<file name="D:\Git\Sonarproject - 1\master\uniqueid-zookeeper\src\test\java\org\lable\oss\uniqueid\zookeeper\ReconnectionIT.java">
+</file>
+<file name="D:\Git\Sonarproject - 1\master\uniqueid-zookeeper\src\test\java\org\lable\oss\uniqueid\zookeeper\ResourceClaimIT.java">
+</file>
+<file name="D:\Git\Sonarproject - 1\master\uniqueid-zookeeper\src\test\java\org\lable\oss\uniqueid\zookeeper\ResourceTestPoolHelper.java">
+</file>
+<file name="D:\Git\Sonarproject - 1\master\uniqueid-zookeeper\src\test\java\org\lable\oss\uniqueid\zookeeper\SynchronizedGeneratorIdentityTest.java">
+</file>
+<file name="D:\Git\Sonarproject - 1\master\uniqueid-zookeeper\src\test\java\org\lable\oss\uniqueid\zookeeper\SynchronizedUniqueIDGeneratorIT.java">
+</file>
+<file name="D:\Git\Sonarproject - 1\master\uniqueid-zookeeper\src\test\java\org\lable\oss\uniqueid\zookeeper\ZooKeeperHelperTest.java">
+</file>
+<file name="D:\Git\Sonarproject - 1\master\uniqueid-zookeeper\src\test\java\org\lable\oss\uniqueid\zookeeper\ZooKeeperInstance.java">
+</file>
+</checkstyle>
